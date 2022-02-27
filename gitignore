@@ -23,6 +23,7 @@
 .idea/**/uiDesigner.xml
 .idea/**/dbnavigator.xml
 .idea/vcs.xml
+.idea/uiDesigner.xml
 
 # Gradle
 .idea/**/gradle.xml
@@ -52,6 +53,7 @@ cmake-build-*/
 
 # IntelliJ
 out/
+out/production/GBJava1/com/company/Lesson1/HomeWorkApp.class
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
