@@ -28,22 +28,22 @@ public class HomeWorkApp {
 
     private static void printColor() {
         int value = 150;
-        if (value <= 0)
+        if (value <= 0) {
             System.out.println("Красный");
-        else if (value > 0 && value <= 100)
+        } else if (value > 0 && value <= 100) {
             System.out.println("Желтый");
-        else
+        } else {
             System.out.println("Зеленый");
-
+        }
     }
 
     private static void compareNumbers() {
         int a = 7;
         int b = 9;
-        if (a >= b)
+        if (a >= b) {
             System.out.println("a>=b");
-        else
+        } else {
             System.out.println("a<b");
+        }
     }
-
 }
