@@ -8,7 +8,7 @@ public class HomeWork3 {
         //     arrayOneZero();
         //     oneToHundred();
         //     multiplyForTwo();
-         //     square();
+        //     square();
         //      System.out.println(Arrays.toString(value(3, 6)));
     }
 
@@ -44,11 +44,8 @@ public class HomeWork3 {
     private static void square() {
         int[][] s = new int[4][4];
         for (int i = 0; i < 4; i++) {
-        for (int w = 0; w < 4; w++) {
+            for (int w = 0; w < 4; w++) {
 
-        }
-            {
-                System.out.println(Arrays.toString(s[i]));
             }
         }
     }
