@@ -11,11 +11,17 @@ public class CatEat {
         this.appetite = appetite;
     }
 
-    public String getName() {return name;}
+    public String getName() {
+        return name;
+    }
 
-    public int getAppetite() {return appetite;}
+    public int getAppetite() {
+        return appetite;
+    }
 
-    public boolean isCatIsFull() {return catIsFull;}
+    public boolean isCatIsFull() {
+        return catIsFull;
+    }
 
     public void hungryCat() {
         System.out.println(name + " голодный");
